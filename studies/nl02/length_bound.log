@@ -1,0 +1,9 @@
+symmetric T1/T2=   1: S=0.12500 (Almogy 1/[2(1+3T1/T2)] = 0.12500); I2/(Is X^2) bound ours 0.062500 vs Almogy Eq.9.37 0.062500
+symmetric T1/T2=   5: S=0.03125 (Almogy 1/[2(1+3T1/T2)] = 0.03125); I2/(Is X^2) bound ours 0.019531 vs Almogy Eq.9.37 0.019531
+symmetric T1/T2=  15: S=0.01087 (Almogy 1/[2(1+3T1/T2)] = 0.01087); I2/(Is X^2) bound ours 0.007089 vs Almogy Eq.9.37 0.007089
+symmetric T1/T2=  50: S=0.00331 (Almogy 1/[2(1+3T1/T2)] = 0.00331); I2/(Is X^2) bound ours 0.002193 vs Almogy Eq.9.37 0.002193
+balanced  : S = 0.0060 at p = 1.61 (|rho31| <= 1/2 always)
+ADQW-like : S = 0.0099 at p = 4.7 (|rho31| <= 1/2 always)
+TW-like   : S = 0.0264 at p = 1e+06 (|rho31| <= 1/2 always)
+weak 2-3  : S = 0.0253 at p = 1e+06 (|rho31| <= 1/2 always)
+dm_check propagations: eta/bound max 0.511, median 0.161; L_opt/L_min range 1.40-89.13

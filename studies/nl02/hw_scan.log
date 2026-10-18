@@ -1,0 +1,26 @@
+dhw -60 meV lam 19.38 um: G1 0.185 G2 0.405 O 0.0093 n1 2.9536 n2 3.2378 loss 14.74/2.92
+dhw -55 meV lam 17.97 um: G1 0.206 G2 0.429 O 0.0120 n1 3.0145 n2 3.2528 loss 12.79/2.23
+dhw -50 meV lam 16.76 um: G1 0.225 G2 0.448 O 0.0151 n1 3.0586 n2 3.2657 loss 11.24/1.70
+dhw -45 meV lam 15.70 um: G1 0.244 G2 0.465 O 0.0184 n1 3.0923 n2 3.2770 loss 9.95/1.30
+dhw -40 meV lam 14.76 um: G1 0.263 G2 0.478 O 0.0219 n1 3.1190 n2 3.2869 loss 8.84/0.99
+dhw -35 meV lam 13.93 um: G1 0.281 G2 0.489 O 0.0257 n1 3.1409 n2 3.2957 loss 7.85/0.76
+dhw -30 meV lam 13.19 um: G1 0.299 G2 0.498 O 0.0296 n1 3.1593 n2 3.3036 loss 6.97/0.59
+dhw -25 meV lam 12.53 um: G1 0.317 G2 0.504 O 0.0336 n1 3.1751 n2 3.3107 loss 6.18/0.46
+dhw -20 meV lam 11.92 um: G1 0.334 G2 0.509 O 0.0377 n1 3.1889 n2 3.3171 loss 5.46/0.37
+dhw -15 meV lam 11.38 um: G1 0.351 G2 0.512 O 0.0417 n1 3.2012 n2 3.3229 loss 4.81/0.29
+dhw -10 meV lam 10.88 um: G1 0.366 G2 0.514 O 0.0457 n1 3.2121 n2 3.3283 loss 4.23/0.24
+dhw -5 meV lam 10.42 um: G1 0.381 G2 0.515 O 0.0495 n1 3.2221 n2 3.3332 loss 3.72/0.19
+dhw +0 meV lam 10.00 um: G1 0.395 G2 0.514 O 0.0531 n1 3.2311 n2 3.3378 loss 3.25/0.16
+dhw +5 meV lam 9.61 um: G1 0.408 G2 0.513 O 0.0565 n1 3.2394 n2 3.3420 loss 2.85/0.13
+dhw +10 meV lam 9.25 um: G1 0.420 G2 0.511 O 0.0595 n1 3.2471 n2 3.3460 loss 2.49/0.11
+dhw +15 meV lam 8.92 um: G1 0.431 G2 0.507 O 0.0623 n1 3.2542 n2 3.3498 loss 2.17/0.09
+ad 0.01 res 0.0052% best 0.0077% at dhw=-30 meV L=271
+ad 1.0 res 0.1386% best 0.5938% at dhw=-30 meV L=288
+ad 4.0 res 0.2076% best 1.4068% at dhw=-35 meV L=351
+ad 10.0 res 0.3106% best 1.7851% at dhw=-35 meV L=428
+ad 30.0 res 0.6366% best 1.5644% at dhw=-35 meV L=642
+tw 0.01 res 0.0060% best 0.0079% at dhw=-15 meV L=225
+tw 1.0 res 0.2871% best 0.5922% at dhw=-20 meV L=310
+tw 4.0 res 0.5377% best 1.7773% at dhw=-25 meV L=360
+tw 10.0 res 0.6937% best 3.3115% at dhw=-25 meV L=378
+tw 30.0 res 1.1293% best 6.6840% at dhw=-30 meV L=369

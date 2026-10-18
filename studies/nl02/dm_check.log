@@ -1,0 +1,69 @@
+weak-field check (eta_dm/eta_re): 0.9999892778344185
+res|balanced     p0=    0.10 (valid<15.0) d12=+0.0 eta_re=1.4875e-04 eta_dm=1.4847e-04 ratio=0.998
+res|balanced     p0=    0.18 (valid<15.0) d12=+0.0 eta_re=2.4495e-04 eta_dm=2.4417e-04 ratio=0.997
+res|balanced     p0=    0.32 (valid<15.0) d12=+0.0 eta_re=3.8378e-04 eta_dm=3.8183e-04 ratio=0.995
+res|balanced     p0=    0.56 (valid<15.0) d12=+0.0 eta_re=5.5898e-04 eta_dm=5.5468e-04 ratio=0.992
+res|balanced     p0=    1.00 (valid<15.0) d12=+0.0 eta_re=7.3896e-04 eta_dm=7.3098e-04 ratio=0.989
+res|balanced     p0=    1.78 (valid<15.0) d12=+0.0 eta_re=8.7140e-04 eta_dm=8.5925e-04 ratio=0.986
+res|balanced     p0=    3.16 (valid<15.0) d12=+0.0 eta_re=9.1225e-04 eta_dm=8.9712e-04 ratio=0.983
+res|balanced     p0=    5.62 (valid<15.0) d12=+0.0 eta_re=8.5460e-04 eta_dm=8.3890e-04 ratio=0.982
+res|balanced     p0=   10.00 (valid<15.0) d12=+0.0 eta_re=7.2773e-04 eta_dm=7.1372e-04 ratio=0.981
+res|balanced     p0=   17.78 (valid<15.0) d12=+0.0 eta_re=5.7331e-04 eta_dm=5.6236e-04 ratio=0.981
+res|balanced     p0=   31.62 (valid<15.0) d12=+0.0 eta_re=4.2462e-04 eta_dm=4.1684e-04 ratio=0.982
+res|balanced     p0=   56.23 (valid<15.0) d12=+0.0 eta_re=2.9957e-04 eta_dm=2.9448e-04 ratio=0.983
+res|balanced     p0=  100.00 (valid<15.0) d12=+0.0 eta_re=2.0340e-04 eta_dm=2.0029e-04 ratio=0.985
+res|balanced     p0=  177.83 (valid<15.0) d12=+0.0 eta_re=1.3396e-04 eta_dm=1.3218e-04 ratio=0.987
+res|balanced     p0=  316.23 (valid<15.0) d12=+0.0 eta_re=8.6093e-05 eta_dm=8.5128e-05 ratio=0.989
+res|ADQW-like    p0=    0.10 (valid<9.1) d12=+0.2 eta_re=2.3859e-04 eta_dm=2.3799e-04 ratio=0.997
+res|ADQW-like    p0=    0.18 (valid<9.1) d12=+0.2 eta_re=3.8857e-04 eta_dm=3.8694e-04 ratio=0.996
+res|ADQW-like    p0=    0.32 (valid<9.1) d12=+0.2 eta_re=6.0170e-04 eta_dm=5.9760e-04 ratio=0.993
+res|ADQW-like    p0=    0.56 (valid<9.1) d12=+0.2 eta_re=8.7241e-04 eta_dm=8.6318e-04 ratio=0.989
+res|ADQW-like    p0=    1.00 (valid<9.1) d12=+0.2 eta_re=1.1753e-03 eta_dm=1.1569e-03 ratio=0.984
+res|ADQW-like    p0=    1.78 (valid<9.1) d12=+0.2 eta_re=1.4816e-03 eta_dm=1.4482e-03 ratio=0.977
+res|ADQW-like    p0=    3.16 (valid<9.1) d12=+0.2 eta_re=1.7887e-03 eta_dm=1.7312e-03 ratio=0.968
+res|ADQW-like    p0=    5.62 (valid<9.1) d12=+0.2 eta_re=2.1426e-03 eta_dm=2.0403e-03 ratio=0.952
+res|ADQW-like    p0=   10.00 (valid<9.1) d12=+0.2 eta_re=2.6477e-03 eta_dm=2.4483e-03 ratio=0.925
+res|ADQW-like    p0=   17.78 (valid<9.1) d12=+0.2 eta_re=3.4908e-03 eta_dm=3.0644e-03 ratio=0.878
+res|ADQW-like    p0=   31.62 (valid<9.1) d12=+0.2 eta_re=4.9922e-03 eta_dm=4.0505e-03 ratio=0.811
+res|ADQW-like    p0=   56.23 (valid<9.1) d12=+0.2 eta_re=7.6815e-03 eta_dm=5.6788e-03 ratio=0.739
+res|ADQW-like    p0=  100.00 (valid<9.1) d12=+0.2 eta_re=1.2423e-02 eta_dm=8.4578e-03 ratio=0.681
+res|ADQW-like    p0=  177.83 (valid<9.1) d12=+0.2 eta_re=2.0613e-02 eta_dm=1.3337e-02 ratio=0.647
+res|ADQW-like    p0=  316.23 (valid<9.1) d12=+0.2 eta_re=3.4397e-02 eta_dm=2.1939e-02 ratio=0.638
+res|TW-like      p0=    0.10 (valid<4.1) d12=+0.1 eta_re=7.0645e-04 eta_dm=7.0592e-04 ratio=0.999
+res|TW-like      p0=    0.18 (valid<4.1) d12=+0.1 eta_re=1.1480e-03 eta_dm=1.1466e-03 ratio=0.999
+res|TW-like      p0=    0.32 (valid<4.1) d12=+0.1 eta_re=1.8275e-03 eta_dm=1.8238e-03 ratio=0.998
+res|TW-like      p0=    0.56 (valid<4.1) d12=+0.1 eta_re=2.8842e-03 eta_dm=2.8744e-03 ratio=0.997
+res|TW-like      p0=    1.00 (valid<4.1) d12=+0.1 eta_re=4.5830e-03 eta_dm=4.5569e-03 ratio=0.994
+res|TW-like      p0=    1.78 (valid<4.1) d12=+0.1 eta_re=7.4159e-03 eta_dm=7.3453e-03 ratio=0.990
+res|TW-like      p0=    3.16 (valid<4.1) d12=+0.1 eta_re=1.2251e-02 eta_dm=1.2057e-02 ratio=0.984
+res|TW-like      p0=    5.62 (valid<4.1) d12=+0.1 eta_re=2.0545e-02 eta_dm=2.0015e-02 ratio=0.974
+res|TW-like      p0=   10.00 (valid<4.1) d12=+0.1 eta_re=3.4614e-02 eta_dm=3.3190e-02 ratio=0.959
+res|TW-like      p0=   17.78 (valid<4.1) d12=+0.1 eta_re=5.7856e-02 eta_dm=5.4199e-02 ratio=0.937
+res|TW-like      p0=   31.62 (valid<4.1) d12=+0.1 eta_re=9.4635e-02 eta_dm=8.5870e-02 ratio=0.907
+res|TW-like      p0=   56.23 (valid<4.1) d12=+0.1 eta_re=1.4939e-01 eta_dm=1.3021e-01 ratio=0.872
+res|TW-like      p0=  100.00 (valid<4.1) d12=+0.1 eta_re=2.2489e-01 eta_dm=1.8717e-01 ratio=0.832
+res|TW-like      p0=  177.83 (valid<4.1) d12=+0.1 eta_re=3.2048e-01 eta_dm=2.5417e-01 ratio=0.793
+res|TW-like      p0=  316.23 (valid<4.1) d12=+0.1 eta_re=4.3166e-01 eta_dm=3.2683e-01 ratio=0.757
+res|weak 2-3     p0=    0.10 (valid<15.0) d12=+0.0 eta_re=4.5889e-05 eta_dm=4.5825e-05 ratio=0.999
+res|weak 2-3     p0=    0.18 (valid<15.0) d12=+0.0 eta_re=7.6846e-05 eta_dm=7.6662e-05 ratio=0.998
+res|weak 2-3     p0=    0.32 (valid<15.0) d12=+0.0 eta_re=1.2295e-04 eta_dm=1.2245e-04 ratio=0.996
+res|weak 2-3     p0=    0.56 (valid<15.0) d12=+0.0 eta_re=1.8176e-04 eta_dm=1.8057e-04 ratio=0.993
+res|weak 2-3     p0=    1.00 (valid<15.0) d12=+0.0 eta_re=2.3456e-04 eta_dm=2.3224e-04 ratio=0.990
+res|weak 2-3     p0=    1.78 (valid<15.0) d12=+0.0 eta_re=2.3975e-04 eta_dm=2.3655e-04 ratio=0.987
+res|weak 2-3     p0=    3.16 (valid<15.0) d12=+0.0 eta_re=1.6184e-04 eta_dm=1.5948e-04 ratio=0.985
+res|weak 2-3     p0=    5.62 (valid<15.0) d12=+0.0 eta_re=4.9684e-05 eta_dm=4.6515e-05 ratio=0.936
+res|weak 2-3     p0=   10.00 (valid<15.0) d12=+0.0 eta_re=5.4152e-04 eta_dm=5.0600e-04 ratio=0.934
+res|weak 2-3     p0=   17.78 (valid<15.0) d12=+0.0 eta_re=2.3100e-03 eta_dm=2.1547e-03 ratio=0.933
+res|weak 2-3     p0=   31.62 (valid<15.0) d12=+0.0 eta_re=6.5735e-03 eta_dm=6.1290e-03 ratio=0.932
+res|weak 2-3     p0=   56.23 (valid<15.0) d12=+0.0 eta_re=1.5009e-02 eta_dm=1.4013e-02 ratio=0.934
+res|weak 2-3     p0=  100.00 (valid<15.0) d12=+0.0 eta_re=2.9930e-02 eta_dm=2.8032e-02 ratio=0.937
+res|weak 2-3     p0=  177.83 (valid<15.0) d12=+0.0 eta_re=5.4319e-02 eta_dm=5.1134e-02 ratio=0.941
+res|weak 2-3     p0=  316.23 (valid<15.0) d12=+0.0 eta_re=9.1327e-02 eta_dm=8.6573e-02 ratio=0.948
+det|10           p0=   10.00 (valid<975.0) d12=-8.0 eta_re=3.2706e-02 eta_dm=3.1293e-02 ratio=0.957
+det|10           p0=   10.00 (valid<555.0) d12=-6.0 eta_re=3.2418e-02 eta_dm=3.0438e-02 ratio=0.939
+det|10           p0=   10.00 (valid<255.0) d12=-4.0 eta_re=3.1370e-02 eta_dm=2.8588e-02 ratio=0.911
+det|10           p0=   10.00 (valid<63.6) d12=-2.0 eta_re=2.6299e-02 eta_dm=2.2506e-02 ratio=0.856
+det|100          p0=  100.00 (valid<975.0) d12=-8.0 eta_re=1.8102e-01 eta_dm=1.3846e-01 ratio=0.765
+det|100          p0=  100.00 (valid<555.0) d12=-6.0 eta_re=1.7625e-01 eta_dm=1.3023e-01 ratio=0.739
+det|100          p0=  100.00 (valid<255.0) d12=-4.0 eta_re=1.6858e-01 eta_dm=1.2008e-01 ratio=0.712
+det|100          p0=  100.00 (valid<63.6) d12=-2.0 eta_re=1.5211e-01 eta_dm=7.8510e-02 ratio=0.516

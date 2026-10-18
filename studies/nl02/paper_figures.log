@@ -1,0 +1,3 @@
+/home/claude/qwkit/studies/nl02/paper_figures.py:148: RuntimeWarning: divide by zero encountered in divide
+  sec = ax.secondary_xaxis("top", functions=(lambda x: 1239.84 / (124.0 + np.asarray(x)), lambda l: 1239.84 / np.asarray(l) - 124.0))
+figures written to /home/claude/qwkit/paper_nl02/figures

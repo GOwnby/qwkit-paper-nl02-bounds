@@ -1,0 +1,96 @@
+ad_1e+11 {'r23': np.float64(1.6541393830302522), 'u0': np.float64(4.160749715722385), 'd12': np.float64(0.2174879746675129), 'd13': np.float64(0.15671679538774297), 't32': np.float64(1.2050784268219543), 't31': np.float64(0.8582200632635979), 'b1': np.float64(0.019988960533747876), 'b2': np.float64(0.0009700851514618261)} Ps 0.427577822408676 W  Is 0.7443715767355518 MW/cm2
+tw_1e+11 {'r23': np.float64(3.7315899164653628), 'u0': np.float64(0.9462514033444729), 'd12': np.float64(0.09468677411874071), 'd13': np.float64(0.17856375670486646), 't32': np.float64(0.26664661364271025), 't31': np.float64(0.507884929460681), 'b1': np.float64(0.05973858642643899), 'b2': np.float64(0.002899176050889011)} Ps 2.1403032501762427 W  Is 3.726060664351212 MW/cm2
+ad_5e+11 {'r23': np.float64(1.5594100009285266), 'u0': np.float64(4.224936888725638), 'd12': np.float64(0.001660017208825193), 'd13': np.float64(0.08321408117504814), 't32': np.float64(1.0969688351541802), 't31': np.float64(0.8328779493290648), 'b1': np.float64(0.0038552327996412778), 'b2': np.float64(0.00018709847808476247)} Ps 0.43052030592739793 W  Is 0.7494941555540947 MW/cm2
+tw_5e+11 {'r23': np.float64(3.7569340338660093), 'u0': np.float64(0.939208652338903), 'd12': np.float64(0.17081150217623242), 'd13': np.float64(0.16180336745459656), 't32': np.float64(0.29382354098811225), 't31': np.float64(0.5494615522517774), 'b1': np.float64(0.011828197310517473), 'b2': np.float64(0.0005740347808542247)} Ps 1.948669842222864 W  Is 3.392445461322456 MW/cm2
+ad_1e+11
+  P=   0.010 W  qwkit   0.0055%  ladder   0.0057%  ss   0.0059%  bound    0.015%  L=119
+  P=   0.016 W  qwkit   0.0089%  ladder   0.0091%  ss   0.0096%  bound    0.025%  L=119
+  P=   0.027 W  qwkit   0.0141%  ladder   0.0145%  ss   0.0157%  bound    0.041%  L=120
+  P=   0.044 W  qwkit   0.0219%  ladder   0.0225%  ss   0.0256%  bound    0.067%  L=122
+  P=   0.071 W  qwkit   0.0332%  ladder   0.0342%  ss   0.0419%  bound    0.110%  L=123
+  P=   0.116 W  qwkit   0.0486%  ladder   0.0500%  ss   0.0684%  bound    0.179%  L=128
+  P=   0.190 W  qwkit   0.0680%  ladder   0.0700%  ss   0.1117%  bound    0.293%  L=132
+  P=   0.311 W  qwkit   0.0901%  ladder   0.0930%  ss   0.1825%  bound    0.478%  L=141
+  P=   0.508 W  qwkit   0.1130%  ladder   0.1170%  ss   0.2982%  bound    0.781%  L=155
+  P=   0.829 W  qwkit   0.1350%  ladder   0.1406%  ss   0.4872%  bound    1.276%  L=175
+  P=   1.355 W  qwkit   0.1560%  ladder   0.1640%  ss   0.7959%  bound    2.085%  L=205
+  P=   2.214 W  qwkit   0.1778%  ladder   0.1893%  ss   1.3004%  bound    3.406%  L=249
+  P=   3.617 W  qwkit   0.2041%  ladder   0.2211%  ss   2.1245%  bound    5.564%  L=316
+  P=   5.910 W  qwkit   0.2403%  ladder   0.2655%  ss   3.4711%  bound    9.091%  L=418
+  P=   9.655 W  qwkit   0.2927%  ladder   0.3304%  ss   5.6710%  bound   14.853%  L=573
+  P=  15.774 W  qwkit   0.3675%  ladder   0.4227%  ss   9.2652%  bound   24.267%  L=804
+  P=  25.772 W  qwkit   0.4665%  ladder   0.5446%  ss  15.1374%  bound   39.647%  L=1143
+  P=  42.105 W  qwkit   0.5830%  ladder   0.6874%  ss  24.7313%  bound   64.774%  L=1617
+  P=  68.791 W  qwkit   0.6994%  ladder   0.8301%  ss  40.4058%  bound  105.828%  L=2243
+  P= 112.390 W  qwkit   0.7915%  ladder   0.9431%  ss  66.0145%  bound  172.901%  L=3026
+  P= 183.622 W  qwkit   0.8383%  ladder   1.0012%  ss 107.8539%  bound  282.483%  L=3950
+  P= 300.000 W  qwkit   0.8310%  ladder   0.9938%  ss 176.2106%  bound  461.518%  L=4991
+tw_1e+11
+  P=   0.010 W  qwkit   0.0061%  ladder   0.0073%  ss   0.0074%  bound    0.014%  L=190
+  P=   0.016 W  qwkit   0.0099%  ladder   0.0119%  ss   0.0121%  bound    0.024%  L=191
+  P=   0.027 W  qwkit   0.0159%  ladder   0.0192%  ss   0.0197%  bound    0.039%  L=191
+  P=   0.044 W  qwkit   0.0254%  ladder   0.0308%  ss   0.0322%  bound    0.063%  L=193
+  P=   0.071 W  qwkit   0.0400%  ladder   0.0491%  ss   0.0526%  bound    0.103%  L=196
+  P=   0.116 W  qwkit   0.0618%  ladder   0.0773%  ss   0.0860%  bound    0.169%  L=200
+  P=   0.190 W  qwkit   0.0932%  ladder   0.1198%  ss   0.1405%  bound    0.276%  L=207
+  P=   0.311 W  qwkit   0.1363%  ladder   0.1821%  ss   0.2295%  bound    0.450%  L=218
+  P=   0.508 W  qwkit   0.1920%  ladder   0.2721%  ss   0.3749%  bound    0.735%  L=234
+  P=   0.829 W  qwkit   0.2602%  ladder   0.4012%  ss   0.6125%  bound    1.202%  L=259
+  P=   1.355 W  qwkit   0.3381%  ladder   0.5883%  ss   1.0008%  bound    1.963%  L=297
+  P=   2.214 W  qwkit   0.4194%  ladder   0.8642%  ss   1.6350%  bound    3.207%  L=352
+  P=   3.617 W  qwkit   0.4933%  ladder   1.2761%  ss   2.6713%  bound    5.240%  L=435
+  P=   5.910 W  qwkit   0.5476%  ladder   1.8888%  ss   4.3644%  bound    8.561%  L=554
+  P=   9.655 W  qwkit   0.5787%  ladder   2.7773%  ss   7.1305%  bound   13.987%  L=712
+  P=  15.774 W  qwkit   0.6035%  ladder   4.0034%  ss  11.6497%  bound   22.852%  L=896
+  P=  25.772 W  qwkit   0.6674%  ladder   5.5717%  ss  19.0331%  bound   37.335%  L=1084
+  P=  42.105 W  qwkit   0.8259%  ladder   7.3788%  ss  31.0961%  bound   60.997%  L=1305
+  P=  68.791 W  qwkit   1.0890%  ladder   9.1961%  ss  50.8045%  bound   99.657%  L=1631
+  P= 112.390 W  qwkit   1.4106%  ladder  10.7221%  ss  83.0039%  bound  162.818%  L=2081
+  P= 183.622 W  qwkit   1.7153%  ladder  11.6907%  ss 135.6109%  bound  266.011%  L=2653
+  P= 300.000 W  qwkit   1.9320%  ladder  11.9651%  ss 221.5597%  bound  434.605%  L=3339
+ad_5e+11
+  P=   0.010 W  qwkit   0.0052%  ladder   0.0056%  ss   0.0058%  bound    0.015%  L=22
+  P=   0.016 W  qwkit   0.0083%  ladder   0.0090%  ss   0.0094%  bound    0.025%  L=22
+  P=   0.027 W  qwkit   0.0132%  ladder   0.0142%  ss   0.0154%  bound    0.040%  L=22
+  P=   0.044 W  qwkit   0.0206%  ladder   0.0222%  ss   0.0252%  bound    0.066%  L=24
+  P=   0.071 W  qwkit   0.0313%  ladder   0.0337%  ss   0.0411%  bound    0.107%  L=24
+  P=   0.116 W  qwkit   0.0460%  ladder   0.0493%  ss   0.0672%  bound    0.175%  L=25
+  P=   0.190 W  qwkit   0.0648%  ladder   0.0690%  ss   0.1098%  bound    0.286%  L=25
+  P=   0.311 W  qwkit   0.0863%  ladder   0.0915%  ss   0.1794%  bound    0.467%  L=27
+  P=   0.508 W  qwkit   0.1089%  ladder   0.1146%  ss   0.2931%  bound    0.763%  L=30
+  P=   0.829 W  qwkit   0.1306%  ladder   0.1363%  ss   0.4789%  bound    1.247%  L=35
+  P=   1.355 W  qwkit   0.1514%  ladder   0.1565%  ss   0.7824%  bound    2.038%  L=41
+  P=   2.214 W  qwkit   0.1733%  ladder   0.1767%  ss   1.2783%  bound    3.330%  L=50
+  P=   3.617 W  qwkit   0.2007%  ladder   0.2008%  ss   2.0885%  bound    5.440%  L=65
+  P=   5.910 W  qwkit   0.2409%  ladder   0.2347%  ss   3.4122%  bound    8.887%  L=87
+  P=   9.655 W  qwkit   0.3047%  ladder   0.2875%  ss   5.5748%  bound   14.520%  L=121
+  P=  15.774 W  qwkit   0.4079%  ladder   0.3723%  ss   9.1081%  bound   23.723%  L=176
+  P=  25.772 W  qwkit   0.5706%  ladder   0.5064%  ss  14.8807%  bound   38.758%  L=265
+  P=  42.105 W  qwkit   0.8159%  ladder   0.7097%  ss  24.3119%  bound   63.323%  L=402
+  P=  68.791 W  qwkit   1.1644%  ladder   1.0002%  ss  39.7205%  bound  103.457%  L=610
+  P= 112.390 W  qwkit   1.6216%  ladder   1.3836%  ss  64.8950%  bound  169.026%  L=915
+  P= 183.622 W  qwkit   2.1596%  ladder   1.8376%  ss 106.0247%  bound  276.153%  L=1347
+  P= 300.000 W  qwkit   2.7060%  ladder   2.3019%  ss 173.2222%  bound  451.177%  L=1919
+tw_5e+11
+  P=   0.010 W  qwkit   0.0060%  ladder   0.0078%  ss   0.0079%  bound    0.015%  L=41
+  P=   0.016 W  qwkit   0.0097%  ladder   0.0126%  ss   0.0129%  bound    0.024%  L=41
+  P=   0.027 W  qwkit   0.0156%  ladder   0.0204%  ss   0.0210%  bound    0.039%  L=41
+  P=   0.044 W  qwkit   0.0248%  ladder   0.0327%  ss   0.0343%  bound    0.064%  L=41
+  P=   0.071 W  qwkit   0.0391%  ladder   0.0520%  ss   0.0561%  bound    0.105%  L=41
+  P=   0.116 W  qwkit   0.0605%  ladder   0.0816%  ss   0.0917%  bound    0.171%  L=42
+  P=   0.190 W  qwkit   0.0912%  ladder   0.1259%  ss   0.1497%  bound    0.280%  L=44
+  P=   0.311 W  qwkit   0.1335%  ladder   0.1906%  ss   0.2446%  bound    0.458%  L=45
+  P=   0.508 W  qwkit   0.1887%  ladder   0.2836%  ss   0.3997%  bound    0.748%  L=49
+  P=   0.829 W  qwkit   0.2575%  ladder   0.4174%  ss   0.6530%  bound    1.222%  L=54
+  P=   1.355 W  qwkit   0.3386%  ladder   0.6129%  ss   1.0669%  bound    1.996%  L=61
+  P=   2.214 W  qwkit   0.4285%  ladder   0.9059%  ss   1.7431%  bound    3.262%  L=74
+  P=   3.617 W  qwkit   0.5197%  ladder   1.3546%  ss   2.8479%  bound    5.329%  L=92
+  P=   5.910 W  qwkit   0.6047%  ladder   2.0478%  ss   4.6528%  bound    8.706%  L=116
+  P=   9.655 W  qwkit   0.6873%  ladder   3.1109%  ss   7.6018%  bound   14.224%  L=151
+  P=  15.774 W  qwkit   0.8008%  ladder   4.7044%  ss  12.4197%  bound   23.239%  L=192
+  P=  25.772 W  qwkit   1.0227%  ladder   7.0003%  ss  20.2911%  bound   37.968%  L=244
+  P=  42.105 W  qwkit   1.4531%  ladder  10.1254%  ss  33.1515%  bound   62.032%  L=320
+  P=  68.791 W  qwkit   2.1675%  ladder  14.0724%  ss  54.1625%  bound  101.347%  L=439
+  P= 112.390 W  qwkit   3.1876%  ladder  18.6201%  ss  88.4902%  bound  165.580%  L=620
+  P= 183.622 W  qwkit   4.4552%  ladder  23.3235%  ss 144.5744%  bound  270.523%  L=883
+  P= 300.000 W  qwkit   5.8229%  ladder  27.6055%  ss 236.2042%  bound  441.979%  L=1250

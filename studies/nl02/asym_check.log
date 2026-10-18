@@ -1,0 +1,3 @@
+ADQW-like {'eta_num': np.float64(12.56217509610966), 'eta_asym': 12.514794976988197, 'rel_dev': np.float64(0.0037859285117003427)}
+TW-like {'eta_num': np.float64(172.6039078275053), 'eta_asym': 172.58750583788628, 'rel_dev': np.float64(9.503578801606238e-05)}
+weak 2-3 {'eta_num': np.float64(237.9947779057354), 'eta_asym': 239.65934982688722, 'rel_dev': np.float64(0.006945574718258185)}
