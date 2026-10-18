@@ -1,4 +1,6 @@
-﻿# Rabi-frequency bound and saturation limits of resonant intersubband second-harmonic generation in waveguides and thin films
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444563.svg)](https://doi.org/10.5281/zenodo.23444563)
+
+# Rabi-frequency bound and saturation limits of resonant intersubband second-harmonic generation in waveguides and thin films
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
