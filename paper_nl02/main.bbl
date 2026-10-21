@@ -275,17 +275,19 @@ L.~Allen and J.~H. Eberly.
 \newblock Wiley, New York, 1975.
 
 \bibitem[Ownby(2026{\natexlab{a}})]{qwkit}
-G.~Ownby.
-\newblock qwkit: quantum-well intersubband optics in {Python}, version 0.6.1,
-  2026{\natexlab{a}}.
-\newblock Software, MIT license.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \bibitem[Ownby(2026{\natexlab{b}})]{OwnbyN1}
-G.~Ownby.
-\newblock Electrically reversible asymmetric quantum wells for sign-reversal
-  quasi-phase matching of intersubband second-harmonic generation,
-  2026{\natexlab{b}}.
-\newblock Manuscript.
+Gracen Ownby.
+\newblock {Electrically written quasi-phase matching of intersubband
+  second-harmonic generation: bias-reversed asymmetric and mirror-symmetric
+  quantum wells}.
+\newblock Zenodo, October 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444557}.
 
 \bibitem[Cherchi et~al.(2010)Cherchi, Bivona, Cino, Busacca, and
   Oliveri]{Cherchi2010}
@@ -301,7 +303,6 @@ J.~R. Meyer, C.~A. Hoffman, F.~J. Bartoli, E.~R. Youngdale, and L.~R.
   Ram-Mohan.
 \newblock Momentum-space reservoir for enhancement of intersubband
   second-harmonic generation.
-\newblock \emph{IEEE J. Quantum Electron.}, 31:\penalty0 706, 1995.
-\newblock \doi{10.1109/3.371946}.
+\newblock \emph{IEEE J. Quantum Electron.}, 31:\penalty0 706--714, 1995.
 
 \end{thebibliography}

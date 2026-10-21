@@ -25,7 +25,7 @@
 \title{Rabi-frequency bound and saturation limits of resonant intersubband second-harmonic generation in waveguides and thin films}
 \author{Gracen Ownby}
 \affil{University of Oklahoma, Norman, Oklahoma, USA}
-\date{\small 14 October 2026}
+\date{\small 20 October 2026}
 
 \begin{document}
 \maketitle
@@ -235,6 +235,9 @@ In units $\tilde x=A_{12}x$, $p=I_1/\Is$, and with the pump phase fixed, the har
 
 \section{Modal form}\label{app:modal}
 In a waveguide with normalized TM profiles $f_j(z)$, confinement factors $\Gamma_j$ and nonlinear overlap $O=|\int_\mathrm{QW}f_1^2f_2^*dz|^2/w$, the modal coupled-mode equations have $K^2=\omega^2O/(2n_\omega^2n_{2\omega}\varepsilon_0c^3)$ and modal losses $\Gamma_j\alpha_j+\alpha_{\mathrm{bg},j}$ \cite{OwnbyN1}. The proof of Appendix~\ref{app:proof} then gives $\eta\le K^2\sup Q\,P_0/(2\Gamma_\omega\Gamma_{2\omega})$ (used in Fig.~\ref{fig:real}). By Cauchy--Schwarz, $O\le\max_\mathrm{QW}|f_1|^2\,\Gamma_\omega\Gamma_{2\omega}/w$, so this equals the plane-wave bound of Eq.~\eqref{eq:t2} evaluated at an intensity no larger than the peak pump intensity in the active region; it reaches that value only if $f_1$ and $f_2$ are uniform over the stack.
+
+\section*{Data and code availability}
+The \texttt{qwkit} software package (v0.7.0) is archived at \url{https://doi.org/10.5281/zenodo.23444120}. The simulation scripts, raw JSON datasets, and figure-generation code that reproduce every result in this study are permanently archived at \url{https://doi.org/10.5281/zenodo.23444562}.
 
 \bibliographystyle{unsrtnat}
 \bibliography{refs}
